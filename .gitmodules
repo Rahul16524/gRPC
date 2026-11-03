@@ -1,9 +1,0 @@
-[submodule "payment-service"]
-	path = payment-service
-	url = https://github.com/SayedKhaledd/payment-service.git
-[submodule "configuration-service"]
-	path = configuration-service
-	url = https://github.com/SayedKhaledd/configuration-service.git
-[submodule "order-service"]
-	path = order-service
-	url = https://github.com/SayedKhaledd/order-service.git
