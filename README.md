@@ -131,7 +131,8 @@ Wait until the application starts successfully. Keep this terminal open.
 **Payment Service – Console Output**
 
 <!-- Add payment-service startup screenshot here -->
-![alt text](<Screenshot (422).png>) ![alt text](<Screenshot (421).png>)
+![alt text](<Screenshot (421).png>)
+![alt text](<Screenshot (422).png>) 
 
 ![Payment Service Console Output](screenshots/payment-service.png)
 
@@ -225,7 +226,7 @@ http://localhost:8009/api/order
 
 <!-- Add create-order API screenshot here -->
 
-![Create Order API](screenshots/create-order-api.png)
+![alt text](<Screenshot (393).png>)
 
 ### API 2: Make Payment for an Order
 
@@ -243,7 +244,7 @@ This endpoint initiates payment for the order with ID `1`.
 
 <!-- Add order-payment API screenshot here -->
 
-![Order Payment API](screenshots/order-payment-api.png)
+![alt text](<Screenshot (394).png>)
 
 ### API 3: Create Multiple Order Items
 
@@ -297,7 +298,7 @@ http://localhost:8009/api/order-item/list
 
 <!-- Add multiple-order-items API screenshot here -->
 
-![Create Multiple Order Items API](screenshots/create-order-items-api.png)
+![alt text](<Screenshot (399).png>)
 
 ### API 4: Create a Single Order Item
 
@@ -335,7 +336,7 @@ http://localhost:8009/api/order-item
 
 <!-- Add single-order-item API screenshot here -->
 
-![Create Single Order Item API](screenshots/create-order-item-api.png)
+![alt text](<Screenshot (397).png>)
 
 ## 5. Screenshots Directory
 
